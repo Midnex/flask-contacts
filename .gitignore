@@ -1,2 +1,4 @@
 book.sqlite
-\env
+env/*
+venv/*
+*.pyc
